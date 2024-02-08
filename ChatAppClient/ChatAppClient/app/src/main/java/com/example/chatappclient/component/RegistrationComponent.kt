@@ -314,6 +314,3 @@ fun UnderLinedTextComponent(value: String) {
         textAlign = TextAlign.Center
     )
 }
-
-
-

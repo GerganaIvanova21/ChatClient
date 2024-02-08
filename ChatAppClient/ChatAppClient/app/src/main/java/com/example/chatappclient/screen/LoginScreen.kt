@@ -100,7 +100,7 @@ fun LoginScreen(navController: NavController) {
             ClickableLoginTextComponent(tryingToLogin = false, onTextSelected = {
                 PostOfficeAppRouter.navigateTo(Screen.Registration)
             })*/
-            
+
             Text(text = stringResource(id = R.string.go_to_signUp),
                 modifier = Modifier
                     .fillMaxWidth()
